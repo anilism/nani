@@ -1,0 +1,35 @@
+.obox{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(btech.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 600px;
+}
+#cafe{
+    color:#333534;
+    font-size: 60px;
+    text-align: justify;
+}
+#Register,#Login{
+    width: 100px;
+    height: 50px;  
+    background-color: greenyellow;  
+}
+#Register{
+    margin-left: 10px;    
+}
+#Register{
+    margin-bottom:500;
+}
+#Register a,#Login a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#Register:hover{
+    background-color: white;
+}
+#Login:hover{
+    background-color:white;
+}
